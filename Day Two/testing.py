@@ -1,7 +1,5 @@
 from collections import Counter
 
-from mkl import second
-
 with open("day_two_input.txt", "r") as file:
     lines = file.readlines()
 
